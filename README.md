@@ -15,14 +15,16 @@
 
 - 💬 Ask me about Angular, Java Language, Spring Boot, Node.js, Next.js , (Flutter) (Mobile Application). **Java Language & Angular (backend) (oracle database) MySQL**
 
-- 📫 How to reach me muneshkumardeveloper@gmail.com **muneshkumardeveloper@gmail.com**
+- 📫 How to reach me **muneshkumardeveloper@gmail.com**
 
 - ⚡ Fun fact I'm a Fast Bowler. **I think I am good developer Full-Stack Developer serious with my every projects.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/muneshkumar123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muneshkumar123" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/muneshkumarmalhi924" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/muneshkumarmalhi924" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/28783830/munesh-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/28783830/munesh-kumar" height="30" width="40" /></a>
+<a href="https://discord.gg/muneshkumar947" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="muneshkumar947" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
