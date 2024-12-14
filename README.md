@@ -1,4 +1,4 @@
-[logo](https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif)
+![Logo](https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif)
 <h1 align="center">Hi 👋, I'm Munesh Kumar</h1>
 <h3 align="center">A passionate Frontend Developer, skilled in Angular and Next.js, with basic knowledge of backend development using Spring Boot.</h3>
 
