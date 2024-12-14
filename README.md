@@ -8,7 +8,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muneshkumar123" alt="muneshkumar123" /></a> </p>
 
-- 💫 About Me: 🔭 I’m currently working on my Final Year Project (FYP), titled "Banking Chatbot with Customer Support", where I’m developing an interactive chatbot using Angular to improve customer support in the banking sector. **Login_Signup_LocalStorage**
+- 💫 About Me:
+-  🔭 I’m currently working on my Final Year Project (FYP), titled "Banking Chatbot with Customer Support", where I’m developing an interactive chatbot using Angular to improve customer support in the banking sector. **Login_Signup_LocalStorage**
 
 - 🌱 I’m currently learning Angular, Next.js, Node.js, MySQL , MongoDB, Spring Boot framework. **Full-Stack Development with IBA(Karachi)**
 
