@@ -8,20 +8,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muneshkumar123" alt="muneshkumar123" /></a> </p>
 
-- 💫 About Me:
--  🔭 I’m currently working on my Final Year Project (FYP), titled "Banking Chatbot with Customer Support", where I’m developing an interactive chatbot using Angular to improve customer support in the banking sector. **Login_Signup_LocalStorage**
+- 💫 About Me: 🔭 I’m currently working on my Final Year Project (FYP) titled **"Banking Chatbot with Customer Support"**, where I'm developing an interactive chatbot using Angular to enhance customer support in the banking sector. **Login_Signup_LocalStorage**
 
-- 🌱 I’m currently learning Angular, Next.js, Node.js, MySQL , MongoDB, Spring Boot framework. **Full-Stack Development with IBA(Karachi)**
+- 🌱 I’m currently learning **Angular**, **Next.js**, **Node.js**, **MySQL**, **MongoDB**, and the **Spring Boot** framework at **IBA Karachi**. **Full-Stack Development with IBA(Karachi)**
 
-- 👨‍💻 All of my projects are available at gitHub account recent project share. [Munesh-Kumar947](Munesh-Kumar947)
+- - 👨‍💻 Check out my recent projects on [GitHub](https://github.com/Munesh-Kumar947). [Munesh-Kumar947](Munesh-Kumar947)
 
-- 📝 I regularly Research new technologies framework checking. [Typescripts Research](Typescripts Research)
+- 📝 I regularly research new technologies and frameworks to stay updated. [Typescripts Research Java & Spring Boot](Typescripts Research Java & Spring Boot)
 
-- 💬 Ask me about Angular, Java Language, Spring Boot, Node.js, Next.js , (Flutter) (Mobile Application). **Java Language & Angular (backend) (oracle database) MySQL**
+- 💬 Ask me about Angular, Java Language, Spring Boot, Node.js, Next.js , (Flutter) (Mobile Application). ****Angular**, **Java**, **Spring Boot**, **Node.js**, **Next.js**, and **Flutter** (Mobile Application).**
 
 - 📫 How to reach me **muneshkumardeveloper@gmail.com**
 
-- ⚡ Fun fact I'm a Fast Bowler. **I think I am good developer Full-Stack Developer serious with my every projects.**
+- ⚡ Fun fact I'm a Fast Bowler. **I'm a fast bowler and a passionate developer!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
