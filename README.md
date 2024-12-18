@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Angular**, **Next.js**, **Node.js**, **MySQL**, **MongoDB**, and the **Spring Boot** framework. **Full-Stack Development with IBA(Karachi)**
 
-- 👨‍💻 Check out my recent projects on [https://github.com/Munesh-Kumar947](https://github.com/Munesh-Kumar947)
+- 👨‍💻 Check out my recent projects on [https://github.com/Munesh-Kumar947](https://github.com/muneshkumar194)
 
 - 📝 I regularly research new technologies and frameworks to stay updated. [Typescripts Research Java Language & Spring Boot](Typescripts Research Java Language & Spring Boot)
 
