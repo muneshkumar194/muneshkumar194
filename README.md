@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **muneshkumardeveloper@gmail.com**
 
-- I specialize in developing dynamic and responsive web applications using Angular and Next.js for the frontend. For backend development, I use Spring Boot and Express.js, connecting them with MySQL databases to ensure secure and efficient data handling. [example.com](example.com)
+- I specialize in developing dynamic and responsive web applications using Angular and Next.js for the frontend. For backend development, I use Spring Boot and Express.js, connecting them with MySQL databases to ensure secure and efficient data handling. https://muneshkumar194.github.io/muneshkumar/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
