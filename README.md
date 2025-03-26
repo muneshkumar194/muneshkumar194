@@ -5,7 +5,7 @@
 
 </div>
 <h1 align="center">Hi 👋, I'm Munesh Kumar</h1>
-<h3 align="center">A passionate Frontend Developer, skilled in Angular and Next.js, with basic knowledge of backend development using Spring Boot.</h3>
+<h3 align="center">A passionate Frontend Developer, skilled in Angular, with basic knowledge of backend development using Spring Boot.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muneshkumar123&label=Profile%20views&color=0e75b6&style=flat" alt="muneshkumar123" /> </p>
 
