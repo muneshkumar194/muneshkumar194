@@ -12,9 +12,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muneshkumar123" alt="muneshkumar123" /></a> </p>
 
 - 💫 About Me:
--  🔭 I’m currently working on my Final Year Project (FYP) titled **"Banking Chatbot with Customer Support"**, where I'm developing an interactive chatbot using Angular to enhance customer support in the banking sector. **Login_Signup_LocalStorage**
+-  🔭 I’m working on my Final Year Project (FYP) titled **"Banking Chatbot with Customer Support"**developing an interactive chatbot using Angular to enhance customer support in the banking sector. **Login_Signup_LocalStorage**
 
-- 🌱 I’m currently learning **Angular**, **Next.js**, **Node.js**, **MySQL**, and the **Spring Boot** framework. **Full-Stack Development with IBA(Karachi)**
+- 🌱 I’m currently learning **Java Language**, **Angular 19**, **Node.js** **MySQL** **Spring Boot**, ,  framework. **Full-Stack Development with IBA(Karachi)**
 
 - 👨‍💻 Check out my recent projects on [https://github.com/Munesh-Kumar194](https://github.com/muneshkumar194)
 
