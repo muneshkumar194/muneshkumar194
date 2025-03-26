@@ -20,11 +20,11 @@
 
 - 📝 I regularly research new technologies and frameworks to stay updated. [Typescripts Research Java Language & Spring Boot](Typescripts Research Java Language & Spring Boot)
 
-- 💬 Ask me about **Angular**, **Java**, **Spring Boot**, **Node.js**, **Next.js**, and **Flutter** (Mobile Application). **Angular,Spring boot, Next.js, React.js, gsap.**
+- 💬 Ask me about **Angular**, **Java**, **Spring Boot**, **Node.js**, **Next.js**, and **Flutter** (Mobile Application). **Angular, Spring boot, Next.js, React.js, gsap.**
 
 - 📫 How to reach me **muneshkumardeveloper@gmail.com**
 
-- I specialize in developing dynamic and responsive web applications using Angular and Next.js for the frontend. For backend development, I use Spring Boot and Express.js, connecting them with MySQL databases to ensure secure and efficient data handling. https://muneshkumar194.github.io/muneshkumar/
+- I specialize in developing dynamic and responsive web applications using Angular and Next.js for the front end. I use Spring Boot and Express.js for backend development, connecting them with MySQL databases to ensure secure and efficient data handling. https://muneshkumar194.github.io/muneshkumar/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
