@@ -14,13 +14,13 @@
 - 💫 About Me:
 -  🔭 I’m currently working on my Final Year Project (FYP) titled **"Banking Chatbot with Customer Support"**, where I'm developing an interactive chatbot using Angular to enhance customer support in the banking sector. **Login_Signup_LocalStorage**
 
-- 🌱 I’m currently learning **Angular**, **Next.js**, **Node.js**, **MySQL**, **MongoDB**, and the **Spring Boot** framework. **Full-Stack Development with IBA(Karachi)**
+- 🌱 I’m currently learning **Angular**, **Next.js**, **Node.js**, **MySQL**, and the **Spring Boot** framework. **Full-Stack Development with IBA(Karachi)**
 
 - 👨‍💻 Check out my recent projects on [https://github.com/Munesh-Kumar194](https://github.com/muneshkumar194)
 
 - 📝 I regularly research new technologies and frameworks to stay updated. [Typescripts Research Java Language & Spring Boot](Typescripts Research Java Language & Spring Boot)
 
-- 💬 Ask me about **Angular**, **Java**, **Spring Boot**, **Node.js**, **Next.js**, and **Flutter** (Mobile Application). **Angular, Spring boot, Next.js, React.js, gsap.**
+- 💬 Ask me about **Angular**, **Java**, **Spring Boot**, **Node.js**.**
 
 - 📫 How to reach me **muneshkumardeveloper@gmail.com**
 
