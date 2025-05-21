@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/605/screenshots/15458147/media/3a3f9d52c9e79c1f54006159a96e1f5b.gif" alt="Frontend Developer Animation" width="400" />
+  <img src="https://cdn.dribbble.com/userupload/23379424/file/original-50d3ae73eb06aa464eee78018d0555bf.gif" />
 </p>
 <h1 align="center">Hi 👋, I'm Munesh Kumar</h1>
 <h3 align="center">Front-End Developer | Angular Enthusiast | UI/UX Passionate</h3>
