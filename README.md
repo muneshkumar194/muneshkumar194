@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Munesh Kumar</h1>
 <h3 align="center">Temenos T24 DBA Intern | Core Banking | Java Backend | DevOps | AWS</h3>
-<img src="https://github.com/muneshkumar194/muneshkumar194/blob/main/developer.gif" alt="description" width="40" height="40" />
+<img src="https://github.com/muneshkumar194/muneshkumar194/blob/main/developer.gif" alt="description" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muneshkumar194&label=Profile%20views&color=0e75b6&style=flat" alt="muneshkumar194" /> </p>
 
