@@ -8,11 +8,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/muneshkumar194](https://github.com/muneshkumar194)
 
-- 💬 Ask me about **Temenos-T24,Java-Core,Back-End-Developer DevOps(CI/CD)**
+- 💬 Ask me MERN STACK Ai Engineer **
 
-- 📫 How to reach me Java Backend, Temenos T24 & DevOps basics. **muneshkumardeveloper@gmail.com**
+- 📫 How to reach me MERN STACK Ai Engineer. **muneshkumardeveloper@gmail.com**
 
-- 📄 Know about my experiencesJava Backend, Temenos T24 & DevOps. [https://drive.google.com/drive/u/0/folders/1J1FHZ7kt-P-9cIMvF8Shzm8KCyE_t02K](https://drive.google.com/drive/u/0/folders/1J1FHZ7kt-P-9cIMvF8Shzm8KCyE_t02K)
+- 📄 Know about my experience fresh graduate in Computer Science MERN STACK Ai Engineer.
 
 - ⚡ Fun fact **I enjoy playing rackets, football & shooting games**
 
