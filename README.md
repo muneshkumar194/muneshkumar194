@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Munesh Kumar</h1
-<img src="https://lottiefiles.com/free-animations/developer" alt="description" />
+
+<p align="center">
+  <img src="https://github.com/muneshkumar194/muneshkumar194/blob/main/U2TBsmnUTx.gif" alt="Coding GIF" width="700"/>
+</p>
 <h3 align="center">Passionate Junior Full-Stack Developer with hands-on experience in Angular and Java Spring Boot, dedicated to building scalable, responsive, and user-friendly web applications while continuously learning modern backend and frontend technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muneshkumar194&label=Profile%20views&color=0e75b6&style=flat" alt="muneshkumar194" /> </p>
