@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Munesh Kumar</h1
 
 <p align="center">
-  <img src="https://github.com/muneshkumar194/muneshkumar194/blob/main/U2TBsmnUTx.gif" alt="Coding GIF" width="700"/>
+  <img src="https://github.com/muneshkumar194/muneshkumar194/blob/main/b2325557a903fdf56b50da4656da9221.gif" alt="Coding GIF" width="700"/>
 </p>
 <h3 align="center">Passionate Junior Full-Stack Developer with hands-on experience in Angular and Java Spring Boot, dedicated to building scalable, responsive, and user-friendly web applications while continuously learning modern backend and frontend technologies.</h3>
 
